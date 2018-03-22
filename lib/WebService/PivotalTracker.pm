@@ -336,7 +336,7 @@ This method accepts the following arguments:
 
 =over 4
 
-=item * story_id
+=item * project_id
 
 The id of the project you are querying.
 
