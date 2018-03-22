@@ -1,5 +1,7 @@
 {{$NEXT}}
 
+- Minor documentation fix for arguments to project_stories_where
+
 0.10     2018-01-04
 
 - Make sure all queries that retrieve one or more stories get the requested_by
